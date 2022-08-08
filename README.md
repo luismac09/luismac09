@@ -42,6 +42,6 @@
 
 ## Connect with me
 
-<a href="https://twitter.com/luismac09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/luismac09" height="30" width="40" /></a>&ensp;
-<a href="https://www.linkedin.com/in/luismac09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luismac09" height="30" width="40" /></a>
+<a href="https://twitter.com/luismacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/luismac09" height="30" width="40" /></a>&ensp;
+<a href="https://www.linkedin.com/in/luismachaca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luismac09" height="30" width="40" /></a>
 </p>

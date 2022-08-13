@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning  **VUE y REACT**
 
-**I am passionate *frontend developer* from Perú. I love the creative process of building websites. I commonly like to venture out and immerse myself in getting to know new trends and technologies.**
+**I am passionate *frontend developer* from Perú. I love the creative process of creating websites. I commonly like to venture into learning about new trends and technologies.**
 
 ---
 

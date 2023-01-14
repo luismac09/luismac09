@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning  ** VUE , REACT and NODEJS **
 
-**I am passionate *frontend developer* from Perú. I love the creative process of building websites. I commonly like to venture into learning about new trends and technologies.**
+**I am *javascript developer*. I love the creative process of building websites.**
 
 ---
 

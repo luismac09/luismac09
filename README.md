@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning  ** VUE , REACT and NODEJS **
 
 **I am *javascript developer*. I love the creative process of building web applications and websites.**
-*Soy *desarrollador javascript*. Me encanta el proceso creativo de crear aplicaciones web y sitios web.
+
+**Soy *desarrollador javascript*. Me encanta el proceso creativo de crear aplicaciones web y sitios web.**
 ---
 
 ## Frontend Development
@@ -18,7 +19,6 @@
 ## Programming Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&ensp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 
 ## Tools
 

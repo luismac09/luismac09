@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning  ** VUE , REACT and NODEJS **
 
-**I am *javascript developer*. I love the creative process of building websites.**
-
+**I am *javascript developer*. I love the creative process of building web applications and websites.**
+*Soy *desarrollador javascript*. Me encanta el proceso creativo de crear aplicaciones web y sitios web.
 ---
 
 ## Frontend Development

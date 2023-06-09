@@ -1,6 +1,6 @@
 # Hi 👋, I'm luis Machaca
 
-- 🌱 I’m currently learning  ** VUE , REACT and NODEJS **
+- 🌱 I’m currently learning  ** REACT and NODEJS **
 
 **I am *javascript developer*. I love the creative process of building web applications and websites.**
 

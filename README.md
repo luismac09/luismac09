@@ -1,8 +1,8 @@
 # Hi 👋, I'm luis Machaca
 
-**I am *FulL Stack Developer*. I love the creative process of building web applications and websites.**
+**I am *Web Developer*. I love the creative process of building web applications and websites.**
 
-Soy *Desarrollador Full Stack*. Me encanta el proceso creativo de crear aplicaciones web y sitios web.
+Soy *Desarrollador web*. Me encanta el proceso creativo de crear aplicaciones web y sitios web.
 
 ---
 ## Design
